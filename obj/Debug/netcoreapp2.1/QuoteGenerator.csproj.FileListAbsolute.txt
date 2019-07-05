@@ -1,0 +1,11 @@
+D:\Workshop\VB-Projects\QuoteGenerator\bin\Debug\netcoreapp2.1\QuoteGenerator.deps.json
+D:\Workshop\VB-Projects\QuoteGenerator\bin\Debug\netcoreapp2.1\QuoteGenerator.runtimeconfig.json
+D:\Workshop\VB-Projects\QuoteGenerator\bin\Debug\netcoreapp2.1\QuoteGenerator.runtimeconfig.dev.json
+D:\Workshop\VB-Projects\QuoteGenerator\bin\Debug\netcoreapp2.1\QuoteGenerator.dll
+D:\Workshop\VB-Projects\QuoteGenerator\bin\Debug\netcoreapp2.1\QuoteGenerator.pdb
+D:\Workshop\VB-Projects\QuoteGenerator\obj\Debug\netcoreapp2.1\QuoteGenerator.csprojAssemblyReference.cache
+D:\Workshop\VB-Projects\QuoteGenerator\obj\Debug\netcoreapp2.1\QuoteGenerator.csproj.CoreCompileInputs.cache
+D:\Workshop\VB-Projects\QuoteGenerator\obj\Debug\netcoreapp2.1\QuoteGenerator.AssemblyInfoInputs.cache
+D:\Workshop\VB-Projects\QuoteGenerator\obj\Debug\netcoreapp2.1\QuoteGenerator.AssemblyInfo.cs
+D:\Workshop\VB-Projects\QuoteGenerator\obj\Debug\netcoreapp2.1\QuoteGenerator.dll
+D:\Workshop\VB-Projects\QuoteGenerator\obj\Debug\netcoreapp2.1\QuoteGenerator.pdb
